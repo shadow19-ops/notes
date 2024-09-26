@@ -12,9 +12,7 @@
 
 # lets-git-started w/ a Link
 - [GitHub Pages](https://pages.github.com/)
-- [Decolonize Palestine](https://decolonizepalestine.com/)
+- [Go Transit Website](https://www.gotransit.com/en)
 - [George Brown Website](https://www.georgebrown.ca/)
 
-# lets-git-started w/ an Emoji
-- Me bc this was easy :disappointed_relieved:
-- Me if i gave up :neckbeard:
+- :angry: :smirk: :face_exhaling: :smiling_face_with_tear: :thinking:
