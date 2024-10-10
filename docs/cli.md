@@ -1,2 +1,2 @@
-:ls
-:cat
+-:ls
+-:cat
